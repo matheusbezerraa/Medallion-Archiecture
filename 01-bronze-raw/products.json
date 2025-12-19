@@ -1,0 +1,167 @@
+[
+  {
+    "id": 2001,
+    "nome": "Smartphone X100 Pro",
+    "categoria": "Eletrônicos",
+    "preco": 3999.90,
+    "marca": "TechNova",
+    "descricao": "Smartphone de última geração com 256GB de armazenamento, câmera tripla de 108MP e 12GB de RAM.",
+    "estoque": 120,
+    "avaliacao": 4.8,
+    "tags": ["celular", "tecnologia", "android", "lancamento", "5g"]
+  },
+  {
+    "id": 2002,
+    "nome": "Notebook UltraSlim i7",
+    "categoria": "Eletrônicos",
+    "preco": 7499.00,
+    "marca": "Apex Computadores",
+    "descricao": "Notebook de alta performance para profissionais, 16GB RAM, 1TB SSD NVMe e tela 4K.",
+    "estoque": 85,
+    "avaliacao": 4.9,
+    "tags": ["notebook", "trabalho", "alta performance", "ssd", "intel"]
+  },
+  {
+    "id": 2003,
+    "nome": "O Código de Atlas",
+    "categoria": "Livros",
+    "preco": 59.90,
+    "marca": "Editora Sapiens",
+    "descricao": "Um thriller de ficção científica que explora os limites da inteligência artificial.",
+    "estoque": 350,
+    "avaliacao": 4.6,
+    "tags": ["livro", "ficcao cientifica", "misterio", "leitura"]
+  },
+  {
+    "id": 2004,
+    "nome": "Camiseta Básica de Algodão Pima",
+    "categoria": "Roupas",
+    "preco": 119.99,
+    "marca": "VesteBem",
+    "descricao": "Camiseta 100% algodão Pima peruano, com corte moderno e maior durabilidade.",
+    "estoque": 800,
+    "avaliacao": 4.7,
+    "tags": ["camiseta", "roupa", "algodao", "basico", "moda masculina"]
+  },
+  {
+    "id": 2005,
+    "nome": "Café Gourmet Grãos Especiais 1kg",
+    "categoria": "Alimentos",
+    "preco": 95.50,
+    "marca": "Aroma do Campo",
+    "descricao": "Café especial 100% arábica da região da Mogiana, torra média e notas de chocolate.",
+    "estoque": 230,
+    "avaliacao": 4.8,
+    "tags": ["cafe", "gourmet", "alimento", "graos", "especial"]
+  },
+  {
+    "id": 2006,
+    "nome": "Fone de Ouvido Bluetooth TWS-800",
+    "categoria": "Eletrônicos",
+    "preco": 449.90,
+    "marca": "TechNova",
+    "descricao": "Fone sem fio com cancelamento de ruído ativo (ANC) e 30 horas de bateria (com case).",
+    "estoque": 410,
+    "avaliacao": 4.5,
+    "tags": ["fone", "bluetooth", "audio", "tecnologia", "anc"]
+  },
+  {
+    "id": 2007,
+    "nome": "Furadeira de Impacto 800W com Maleta",
+    "categoria": "Ferramentas",
+    "preco": 529.00,
+    "marca": "FixaTudo Pro",
+    "descricao": "Furadeira profissional 220V com velocidade variável, mandril de 1/2 polegada e maleta com 50 acessórios.",
+    "estoque": 110,
+    "avaliacao": 4.7,
+    "tags": ["ferramenta", "casa", "reforma", "diy", "profissional"]
+  },
+  {
+    "id": 2008,
+    "nome": "Data Pipelines com Python e SQL",
+    "categoria": "Livros",
+    "preco": 149.90,
+    "marca": "Editora Código Fonte",
+    "descricao": "Um guia prático para construção de pipelines de dados robustos usando Airflow, dbt e SQL.",
+    "estoque": 90,
+    "avaliacao": 4.9,
+    "tags": ["livro", "tecnico", "engenharia de dados", "python", "sql"]
+  },
+  {
+    "id": 2009,
+    "nome": "Tênis de Corrida Impulse II",
+    "categoria": "Roupas",
+    "preco": 799.90,
+    "marca": "Pace Runners",
+    "descricao": "Tênis com placa de carbono e amortecimento responsivo para corridas de longa distância.",
+    "estoque": 150,
+    "avaliacao": 4.8,
+    "tags": ["tenis", "corrida", "esporte", "calcado", "performance"]
+  },
+  {
+    "id": 2010,
+    "nome": "Smartwatch Active 5 Pro",
+    "categoria": "Eletrônicos",
+    "preco": 1899.00,
+    "marca": "Apex Computadores",
+    "descricao": "Relógio inteligente com GPS integrado, monitoramento de oxigênio no sangue (SpO2) e NFC para pagamentos.",
+    "estoque": 180,
+    "avaliacao": 4.6,
+    "tags": ["smartwatch", "relogio", "tecnologia", "fitness", "saude"]
+  },
+  {
+    "id": 2011,
+    "nome": "Kit Chave de Fenda de Precisão (50 em 1)",
+    "categoria": "Ferramentas",
+    "preco": 179.90,
+    "marca": "FixaTudo Pro",
+    "descricao": "Kit completo para manutenção de eletrônicos (smartphones, notebooks) com pontas magnéticas.",
+    "estoque": 300,
+    "avaliacao": 4.7,
+    "tags": ["ferramenta", "manutencao", "kit", "eletronica"]
+  },
+  {
+    "id": 2012,
+    "nome": "Azeite Extra Virgem Chileno 500ml",
+    "categoria": "Alimentos",
+    "preco": 62.00,
+    "marca": "Oliva Dourada",
+    "descricao": "Azeite de oliva extra virgem importado dos Andes, acidez máxima de 0.2%.",
+    "estoque": 0,
+    "avaliacao": 4.9,
+    "tags": ["azeite", "gourmet", "importado", "sem estoque", "alimento"]
+  },
+  {
+    "id": 2013,
+    "nome": "Jaqueta Corta-Vento Impermeável",
+    "categoria": "Roupas",
+    "preco": 349.00,
+    "marca": "VesteBem",
+    "descricao": "Jaqueta leve, ideal para atividades ao ar livre, com tecnologia impermeável e capuz ajustável.",
+    "estoque": 220,
+    "avaliacao": 4.4,
+    "tags": ["jaqueta", "roupa", "impermeavel", "esporte", "moda"]
+  },
+  {
+    "id": 2014,
+    "nome": "Monitor Gamer Curvo 27\" 144Hz",
+    "categoria": "Eletrônicos",
+    "preco": 2199.90,
+    "marca": "Apex Computadores",
+    "descricao": "Monitor Full HD com 1ms de tempo de resposta e tecnologia FreeSync.",
+    "estoque": 70,
+    "avaliacao": 4.7,
+    "tags": ["monitor", "gamer", "144hz", "tecnologia", "pc"]
+  },
+  {
+    "id": 2015,
+    "nome": "Chocolate Amargo 85% Cacau",
+    "categoria": "Alimentos",
+    "preco": 24.90,
+    "marca": "Aroma do Campo",
+    "descricao": "Barra de chocolate amargo com alto teor de cacau, orgânico e sem glúten.",
+    "estoque": 500,
+    "avaliacao": 4.8,
+    "tags": ["chocolate", "alimento", "saudavel", "vegano", "organico"]
+  }
+]

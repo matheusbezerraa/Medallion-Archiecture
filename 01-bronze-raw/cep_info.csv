@@ -1,0 +1,74 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01311-000,Avenida Paulista,até 609 - lado ímpar,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20040-001,Avenida Rio Branco,de 102 a 126 - lado par,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30110-005,Avenida do Contorno,de 1193 a 1953 - lado ímpar,,Floresta,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40015-010,Rua Miguel Calmon,,,Comércio,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90010-150,Praça da Alfândega,,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+50030-230,Cais do Apolo,,,Recife,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70070-010,Quadra SAUS Quadra 1,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80010-010,Rua Marechal Deodoro,até 0766 - lado par,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+04538-133,Avenida Brigadeiro Faria Lima,de 3253 ao fim - lado ímpar,,Itaim Bibi,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22041-011,Rua Santa Clara,de 1 ao fim - lado ímpar,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30130-141,Rua Paraíba,de 401/402 a 813/814,,Savassi,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40110-150,Avenida Araújo Pinho,,,Canela,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90035-090,Rua Fernandes Vieira,lado par,,Bom Fim,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+52011-240,Rua Cardeal Arcoverde,,,Graças,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70150-900,Praça dos Três Poderes,,Presidência da República,Zona Cívico-Administrativa,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80020-320,Rua Marechal Deodoro,até 0765 - lado ímpar,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+01415-001,Rua Bela Cintra,até 585 - lado ímpar,,Consolação,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22050-001,Avenida Nossa Senhora de Copacabana,de 560 a 840 - lado par,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30140-071,Rua dos Aimorés,de 971/972 a 1399/1400,,Boa Viagem,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40140-110,Avenida Sete de Setembro,de 3579 ao fim - lado ímpar,,Barra,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90110-180,Avenida Dolores Alcaraz Caldas,,,Praia de Belas,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+51020-000,Avenida Boa Viagem,de 2176/2177 a 3077/3078,,Boa Viagem,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70200-001,Trecho SCES Trecho 1,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80035-030,Rua Doutor Manoel Pedro,,,Cabral,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+05401-300,Avenida Rebouças,de 1763 a 2593 - lado ímpar,,Pinheiros,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22071-000,Rua Miguel Lemos,lado ímpar,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30150-311,Rua Ceará,de 841/842 a 1099/1100,,Funcionários,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40210-630,Rua Professor Aristides Novis,,,Federação,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90230-090,Rua Ernesto da Fontoura,lado par,,São Geraldo,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+70233-040,Quadra SQS 203 Bloco D,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80045-150,Rua Ubaldino do Amaral,de 431 a 965 - lado ímpar,,Alto da Rua XV,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+01419-001,Alameda Santos,de 503 a 1039 - lado ímpar,,Cerqueira César,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22080-010,Rua Francisco Sá,,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30170-001,Avenida Álvares Cabral,de 271/272 a 459/460,,Lourdes,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40301-155,Avenida Barnabé,,,Barbalho,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90430-000,Rua Mostardeiro,lado par,,Moinhos de Vento,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+51030-010,Rua Setúbal,até 1204/1205,,Boa Viagem,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70255-070,Quadra SQS 406 Bloco G,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80210-060,Rua Brasílio Itiberê,até 735/736,,Jardim Botânico,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+02011-000,Rua Voluntários da Pátria,até 891 - lado ímpar,,Santana,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22210-030,Praia do Flamengo,até 193/194,,Flamengo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30180-100,Rua dos Guajajaras,até 120 - lado par,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40411-000,Rua Elias Nazaré,,,Calçada,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90510-001,Rua Vinte e Quatro de Outubro,de 1190 ao fim - lado par,,Auxiliadora,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+52060-105,Rua Isaac Salazar,,,Tamarineira,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70297-400,Quadra EQS 414/415,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80240-000,Avenida Sete de Setembro,de 4552 a 5954 - lado par,,Batel,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+02430-001,Rua Conselheiro Moreira de Barros,de 2081/2082 a 2999/3000,,Lauzane Paulista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22230-000,Rua Senador Vergueiro,lado ímpar,,Flamengo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30190-061,Rua dos Tupis,de 242/243 a 508/509,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+41820-020,Avenida Tancredo Neves,lado par,,Caminho das Árvores,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90550-141,Rua Dom Pedro II,de 652 a 1430 - lado par,,Higienópolis,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+50710-100,Rua Real da Torre,de 801/802 a 1125/1126,,Madalena,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70330-400,Quadra EQS 102/103,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80410-180,Alameda Doutor Carlos de Carvalho,até 489/490,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+01153-000,Rua Vitorino Carmilo,,,Barra Funda,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22240-000,Rua das Laranjeiras,até 146/147,,Laranjeiras,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30210-440,Rua Roberto Alvarenga de Paula,,,Mangabeiras,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+41940-250,Rua Macaúbas,,,Rio Vermelho,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90610-000,Avenida Ipiranga,de 3648 a 5450 - lado par,,Jardim Botânico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+50740-545,Avenida Professor Luiz Freire,,,Cidade Universitária,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+80530-000,Avenida Cândido de Abreu,,,Centro Cívico,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+01239-030,Rua Coronel José Eusébio,,,Higienópolis,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22250-040,Praia Botafogo,de 285/286 ao fim,,Botafogo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30260-070,Avenida dos Andradas,de 2288 a 3540 - lado par,,Santa Efigênia,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+41720-000,Rua João José Rescala,,,Imbuí,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+90670-000,Rua Barão do Amazonas,até 700 - lado par,,Petrópolis,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+51111-030,Rua José Aderval Chaves,,,Boa Viagem,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70377-000,Quadra SQS 114,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80730-000,Rua Padre Anchieta,de 901 a 1323 - lado ímpar,,Bigorrilho,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+01310-100,Avenida Paulista,de 612 a 1510 - lado par,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22270-000,Rua Voluntários da Pátria,até 151 - lado ímpar,,Botafogo,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+52061-510,Rua Padre Donino,,,Casa Forte,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
